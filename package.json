@@ -12,8 +12,13 @@
     "@next/font": "13.1.5",
     "eslint": "8.32.0",
     "eslint-config-next": "13.1.5",
+    "konva": "^8.4.2",
     "next": "13.1.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-konva": "^18.2.3",
+    "use-image": "^1.1.0",
+    "uuid": "^9.0.0",
+    "uuidv4": "^6.2.13"
   }
 }
